@@ -1,11 +1,11 @@
 [Setup]
 AppName=Hydra Companion
-AppVersion=1.0
+AppVersion=1.1.0
 AppPublisher=Skete RAID
 AppPublisherURL=https://github.com/sketeraid
 DefaultDirName={pf}\Hydra Companion
 DefaultGroupName=Hydra Companion
-OutputDir=..\  ; puts installer in HydraCompanion folder
+OutputDir=..\
 OutputBaseFilename=HydraCompanionSetup
 SetupIconFile=hydra_icon.ico
 WizardImageFile=installer_side.bmp
