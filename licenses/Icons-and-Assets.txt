@@ -1,0 +1,10 @@
+Hydra Companion – Icons and Assets Licensing
+--------------------------------------------
+
+All icons and graphical assets included in this application are either:
+
+• Created by the author (Jamie)
+• Licensed for free commercial use
+• Or sourced from icon libraries with permissive licenses
+
+If any third‑party icons are added in the future, their licenses must be listed here.

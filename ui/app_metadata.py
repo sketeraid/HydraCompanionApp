@@ -1,0 +1,3 @@
+APP_VERSION = "1.0.0"
+APP_BUILD = 69
+APP_THEME_KEY = "theme"

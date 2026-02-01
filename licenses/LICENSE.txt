@@ -1,0 +1,39 @@
+Hydra Companion – End User License Agreement (EULA)
+---------------------------------------------------
+
+Copyright (c) 2026 Jamie / SketeRAID
+All rights reserved.
+
+This software and all associated files, assets, and documentation
+(collectively, “Hydra Companion”) are the exclusive property of the author.
+
+1. Grant of Use
+   You are granted a non‑exclusive, non‑transferable license to install
+   and use Hydra Companion on your personal computer.
+
+2. Restrictions
+   You may not:
+   • Modify, decompile, reverse‑engineer, or disassemble the software.
+   • Redistribute, sublicense, sell, or rent the software.
+   • Remove or alter any branding, notices, or license information.
+   • Use the software for any unlawful purpose.
+
+3. Ownership
+   This software is licensed, not sold. All rights remain with the author.
+
+4. Warranty Disclaimer
+   Hydra Companion is provided “as is” without warranty of any kind.
+   The author is not liable for any damages arising from its use.
+
+5. Third‑Party Components
+   Hydra Companion includes third‑party libraries licensed separately.
+   These licenses are included in the /licenses folder.
+
+6. Updates
+   The author may provide updates at their discretion. This EULA applies
+   to all updates unless explicitly replaced.
+
+7. Termination
+   This license terminates automatically if you violate its terms.
+
+By installing or using Hydra Companion, you agree to this EULA.

@@ -1,0 +1,16 @@
+GNU General Public License Version 3 (GPLv3) – Summary
+------------------------------------------------------
+
+The GNU GPLv3 is a strong copyleft open‑source license published by the
+Free Software Foundation.
+
+Key points:
+• You may run, study, share, and modify GPLv3‑licensed software.
+• Any distributed modified version must also be licensed under GPLv3.
+• Source code must be made available when distributing binaries.
+• Additional restrictions may not be applied to recipients.
+• The license includes explicit patent protections.
+
+This summary is provided for reference only. For the full license text,
+see the official version at:
+https://www.gnu.org/licenses/gpl-3.0.html

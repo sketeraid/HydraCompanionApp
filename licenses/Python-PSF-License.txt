@@ -1,0 +1,23 @@
+Python Software Foundation License (PSF License) – Summary
+----------------------------------------------------------
+
+Python is released under the Python Software Foundation License Version 2.
+
+This license allows you to:
+• Use Python for commercial and non-commercial purposes
+• Modify Python
+• Distribute Python in source or binary form
+• Include Python in your own applications
+
+Conditions:
+• You must include a copy of the PSF License with any distribution of Python.
+• You must retain copyright notices.
+• You may not use the name "Python" to endorse or promote derived products
+  without prior written permission from the Python Software Foundation.
+• Any modified versions must be clearly marked as such.
+
+Warranty:
+• Python is provided “as is” without warranty of any kind.
+
+For the full license text, see:
+https://docs.python.org/3/license.html

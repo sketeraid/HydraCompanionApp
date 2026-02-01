@@ -1,0 +1,22 @@
+Hydra Companion – Third‑Party Notices
+-------------------------------------
+
+This application uses the following third‑party libraries and assets. Each
+component is licensed separately by its respective authors.
+
+1. PySide6 (Qt for Python)
+   License: LGPL 3.0
+   Source: https://doc.qt.io/qtforpython/
+   See: PySide6-LGPL-3.0.txt
+
+2. Qt Framework (used via PySide6)
+   License: LGPL 3.0
+   Source: https://www.qt.io/
+   See: Qt-LGPL-3.0.txt
+
+3. Python Programming Language
+   License: Python Software Foundation License
+   See: Python-PSF-License.txt
+
+4. Icons, images, and graphical assets
+   License: See Icons-and-Assets.txt
